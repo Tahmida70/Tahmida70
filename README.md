@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=79C0FF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+!;Kazi+Tahmida+Ratri" />
+</p>
+
+
+
 <h3 align="center">Computer Science and Engineering Student </h3>
 
 <p align="center">
