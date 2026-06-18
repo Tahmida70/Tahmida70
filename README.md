@@ -21,6 +21,16 @@
 - 📫 Email: **kazitahmida70@gmail.com**
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="www.linkedin.com/in/kazi-tahmida-9b5752391" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
 
 
 ## 🛠 Languages & Tools
