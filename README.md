@@ -7,7 +7,7 @@
 <h3 align="center">Computer Science and Engineering Student </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ratri70&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Tahmida70&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -33,8 +33,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratri70&show_icons=true&theme=tokyonight" />
+<!-- --> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahmida70&show_icons=true&theme=tokyonight" />
 </p>
 
 
@@ -42,20 +43,19 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratri70&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmida70&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
--->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratri70&theme=tokyonight" />
-</p>
 
-<!---->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ratri70&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmida70&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ratri70&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tahmida70&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahmida70&theme=tokyonight" />
 </p>
 
